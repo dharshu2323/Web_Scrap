@@ -1,4 +1,4 @@
 # Web_Scrap
 HELLO FOLK!!! TAKE A LOOK AT MY WORK
-HOPE U LIKE MY WORK 
-THANK U FOR YOUR TIME
+I have the selector gadget tool for web scrapping!!
+
